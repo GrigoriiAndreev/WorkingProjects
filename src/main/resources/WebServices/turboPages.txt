@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Turbo Pages generator -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Контрольные и самостоятельные работы, задачи и примеры, тесты,  уроки и репетиторы для 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 классов </title>
+<item turbo="true">
+<title>Сложение и вычитание числа 2. Скачать pdf или jpg.</title>
